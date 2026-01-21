@@ -23,7 +23,7 @@ This will confirms the endpoint is reporting telemetry to Defender.
 ### Step 2: Simulate and Attack (Detection Phase)
 1- In the test endpoint I execute the
    - PowerShell Command
-2- In Defender Portal, I was able to see
+   - In Defender Portal, I was able to see
    - The Alerts
      
 Refer to Screenshot 1 
@@ -45,14 +45,14 @@ I was able to successful isolate the device affected to:
 Refer to Screeshot 3, and 4
 
 ### Step 5: Initiate Live Response (Investigation Phase)
-1- Start Live Response
-2- Run investigation commands
+- Start Live Response
+- Run investigation commands
 
 ### Step 6: Validate Findings & Respond
-1- I am able to confirm malicious process behavior
-2- Detection Method
-3- Timeline evidence
-4- Response Actions take
+1- I was able to confirm malicious process behavior
+- Detection Method
+- Timeline evidence
+- Response Actions take
 
 ### Skills Learned
 
