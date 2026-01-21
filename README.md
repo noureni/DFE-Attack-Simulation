@@ -13,9 +13,11 @@ The Objective of the Lab are to:
 - Understand how these actions map to SOC and IR workflows
 
 ### Step 1: Verify Device Onboarding 
-1- log in to Microsoft Defender Portal
-2- Go to Assets, Devices
-3- Confirm that Test endpoint shows Onboarded, has recent activity.
+
+- log in to Microsoft Defender Portal
+- Go to Assets, Devices
+- Confirm that Test endpoint shows Onboarded, has recent activity.
+
 This will confirms the endpoint is reporting telemetry to Defender.
 
 ### Step 2: Simulate and Attack (Detection Phase)
